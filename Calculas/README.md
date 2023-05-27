@@ -32,6 +32,7 @@ y = 2x + 1
 Every function is a equation but every equation is not a function.
 
 Input ➡️ x
+
 Output ➡️ y
 
 Funcation : If we put a value in a function then it will give a value.
@@ -47,3 +48,12 @@ Here, x is the independent variable and y is the dependent variable.
 y^2 = x
 ```
 **Answer :** No, it is not a function because if we put a value in y then it will give two values of x.
+
+Explanation : 
+```math
+\begin{align}
+y^2 &= x \\
+y &= \sqrt{x} \\
+y &= \pm \sqrt{x}
+\end{align}
+```
