@@ -96,13 +96,18 @@ So, we can say that it is a function. Because if we put a value in y then it wil
 
 If we draw a vertical line in a graph and it cuts the graph in one point then it is a function. But if it cuts the graph in two points then it is not a function.
 
-Example : 
-```graphviz
-digraph G {
-    rankdir=LR;
-    node [shape=none];
-    edge [dir=none];
-    {rank=same; x y}
-    x -> y [label="y = x^2"]
+Example : y = f(x)
+
+Look at the graph below:
+```drawgraph
+{
+    "title": "y = x^2",
+    "x": [-5, 5],
+    "y": [-5, 5],
+    "data": [
+        {
+            "fn": "x^2"
+        }
+    ]
 }
 ```
