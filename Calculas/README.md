@@ -53,7 +53,6 @@ Explanation :
 ```math
 \begin{align}
 y^2 &= x \\
-y &= \sqrt{x} \\
 y &= \pm \sqrt{x}
 \end{align}
 ```
