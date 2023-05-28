@@ -148,11 +148,11 @@ Base of Binary is 2 and Base of Octal is 8.
 ```math
 2^3 = 8
 ```
-T
-| 8 |
-|---|
-| Octal |
-| 4 2 1 |
+
+| 8 | | |
+|---|--|--|
+| Octal | | |
+| 4 | 2 | 1 |
 
 Technique: Grouping
 
