@@ -81,3 +81,55 @@ So, we can say that 46.6875 = 56.54
 ```
 
 So, we can say that 46.6875 = 2E.B
+
+```mermaid
+graph LR
+A[Binary] --Convert--> B[Dcimal]
+C[Octal] --Convert--> B
+D[Hexadecimal] --Convert--> B
+```
+
+**Question 2**: Convert 1101.11(Binary) to Decimal.
+**Solution:**
+- Binary to Decimal
+
+```math
+\begin{align}
+1 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 + 1 \times 2^{-1} + 1 \times 2^{-2} 
+&= 8 + 4 + 0 + 1 + 0.5 + 0.25 \\
+&= 13.75
+\end{align}
+```
+**Question 3**: Convert 1001010.001(Binary) to Decimal.
+**Solution:**
+- Binary to Decimal
+
+```math
+\begin{align}
+1 \times 2^6 + 0 \times 2^5 + 0 \times 2^4 + 1 \times 2^3 + 0 \times 2^2 + 1 \times 2^1 + 0 \times 2^0 + 0 \times 2^{-1} + 0 \times 2^{-2} + 1 \times 2^{-3} \\
+&= 64 + 0 + 0 + 8 + 0 + 2 + 0 + 0 + 0 + 0.125 \\
+&= 74.125
+\end{align}
+```
+**Question 4**: Convert 675.15(Octal) to Decimal.
+**Solution:**
+- Octal to Decimal
+
+```math
+\begin{align}
+6 \times 8^2 + 7 \times 8^1 + 5 \times 8^0 + 1 \times 8^{-1} + 5 \times 8^{-2} \\
+&= 384 + 56 + 5 + 0.125 + 0.0390625 \\
+&= 445.1640625
+\end{align}
+```
+**Question 5**: Convert 67A.C1(Hexadecimal) to Decimal.
+**Solution:**
+- Hexadecimal to Decimal
+
+```math
+\begin{align}
+6 \times 16^2 + 7 \times 16^1 + 10 \times 16^0 + 12 \times 16^{-1} + 1 \times 16^{-2} \\
+&= 1536 + 112 + 10 + 0.75 + 0.00390625 \\
+&= 1658.75390625
+\end{align}
+```
