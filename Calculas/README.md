@@ -98,6 +98,11 @@ So, we can say that it is a function. Because if we put a value in y then it wil
 
 If we draw a vertical line in a graph and it cuts the graph in one point then it is a function. But if it cuts the graph in two points then it is not a function.
 
-Example : y = f(x)
+Example : 
 
+```math
+    x =y^
+```
 Look at the graph below:
+![y=xc^3](https://www.intmath.com/blog/wp-content/images/2007/09/parabola6.gif)
+- Not Funcvation
