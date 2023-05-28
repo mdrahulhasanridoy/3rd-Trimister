@@ -23,6 +23,7 @@ A --Convert--> D[Hexadecimal]
 
 **Question 1**: Convert 46.6875 to binary & octal & hexadecimal.
 **Solution:**
+- Decimal to Binary
 
 ```math
 \begin{align}
@@ -46,3 +47,37 @@ A --Convert--> D[Hexadecimal]
 
 So, we can say that 46.6875 = 101110.1011
 
+- Decimal to Octal
+
+```math
+\begin{align}
+\frac{46}{8} &= 5 \text{ Remainder } 6 \text{ LSB (Least Significant Bit) } \\
+\frac{5}{8} &= 0 \text{ Remainder } 5 \text{ MSB (Most Significant Bit) } \\
+\end{align}
+```
+
+```math
+\begin{align}
+0.6875 \times 8 &= 5.5 \text{ Integer Part } 5 \\
+0.5 \times 8 &= 4.0 \text{ Integer Part } 4 \\
+\end{align}
+```
+
+So, we can say that 46.6875 = 56.54
+
+- Decimal to Hexadecimal
+
+```math
+\begin{align}
+\frac{46}{16} &= 2 \text{ Remainder } 14 \text{ LSB (Least Significant Bit) } \\
+\frac{2}{16} &= 0 \text{ Remainder } 2 \text{ MSB (Most Significant Bit) } \\
+\end{align}
+```
+
+```math
+\begin{align}
+0.6875 \times 16 &= 11.0 \text{ Integer Part } B \\
+\end{align}
+```
+
+So, we can say that 46.6875 = 2E.B
