@@ -112,4 +112,36 @@ x^2 + y^2 = 4 is not a function because if we draw a vertical line in a graph th
 
 y= x^3 is a function because if we draw a vertical line in a graph then it cuts the graph in one point.
 
-![Show the graph of y= x^3](
+![Show the graph of y= x^3](https://github.com/mdrahulhasanridoy/3rd-Trimister/assets/99040899/b0992e64-9d9c-4152-9fb6-51ca625a11c4)
+
+## Plotting of Various Funcation
+
+- **Linear Funcation**
+
+    Everytime the graph of linear function is a straight line. Also, the power of x is 1.
+
+Examples:
+
+```math
+\begin{align}
+y &= x \\
+y &= -x \\
+y &= 2x + 1 \\
+y &= -3x + 5 \\
+\end{align}
+```
+- **Quadratic Funcation**
+
+    Everytime the graph of quadratic function is a parabola. Also, the power of x is 2.
+
+Examples:
+
+```math
+\begin{align}
+y &= x^2 \\
+y &= -x^2 \\
+y &= 2x^2 + 1 \\
+y &= -3x^2 + 2 \\
+\end{align}
+```
+- **Cubic Funcation**
