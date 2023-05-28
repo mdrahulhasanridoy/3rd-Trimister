@@ -161,9 +161,13 @@ Binary: 1001110.11101
 We can write it as 001 001 110.111 010
 
 Group 1 = 001
+
 Group 2 = 001
+
 Group 3 = 110
+
 Group 4 = 111
+
 Group 5 = 010
 
 Apply the table to each group.
