@@ -81,13 +81,15 @@ y^3 = x
 **Answer :** Yes, it is a function because if we put a value in y then it will give only one value of x.
 
 Explanation : 
+
 ```math
 \begin{align}
-y^3 &= x \\
-y^3^{\frac{1}{3}} &= x^{\frac{1}{3}} \\
+y^{3} &= x \\
+y^{{(3)}^{\frac{1}{3}}} &= x^{\frac{1}{3}} \\
 y &= x^{\frac{1}{3}}
 \end{align}
 ```
+
 So, we can say that it is a function. Because if we put a value in y then it will give only one value of x.There didnot found any positive or negative value.
 
 - Note : Only square root is not a function but cube root is a function.
@@ -99,15 +101,3 @@ If we draw a vertical line in a graph and it cuts the graph in one point then it
 Example : y = f(x)
 
 Look at the graph below:
-```drawgraph
-{
-    "title": "y = x^2",
-    "x": [-5, 5],
-    "y": [-5, 5],
-    "data": [
-        {
-            "fn": "x^2"
-        }
-    ]
-}
-```
