@@ -84,8 +84,8 @@ Explanation :
 ```math
 \begin{align}
 y^3 &= x \\
-y^3_{\frac{1}{3}} &= x_{\frac{1}{3}} \\
-y &= x_{\frac{1}{3}}
+y^3^{\frac{1}{3}} &= x^{\frac{1}{3}} \\
+y &= x^{\frac{1}{3}}
 \end{align}
 ```
 So, we can say that it is a function. Because if we put a value in y then it will give only one value of x.There didnot found any positive or negative value.
