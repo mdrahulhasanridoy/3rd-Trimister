@@ -99,10 +99,17 @@ So, we can say that it is a function. Because if we put a value in y then it wil
 If we draw a vertical line in a graph and it cuts the graph in one point then it is a function. But if it cuts the graph in two points then it is not a function.
 
 Example : 
+y^2 = x is not a function because if we draw a vertical line in a graph then it cuts the graph in two points.
 
-```math
-    x =y^
-```
-Look at the graph below:
-![y=xc^3](https://www.intmath.com/blog/wp-content/images/2007/09/parabola6.gif)
-- Not Funcvation
+
+![Show the graph of y^2 = x](https://github.com/mdrahulhasanridoy/3rd-Trimister/assets/99040899/4d438e25-ea07-4969-ab46-bd85c3345dd4)
+
+Another Examples:
+
+x^2 + y^2 = 4 is not a function because if we draw a vertical line in a graph then it cuts the graph in two points.
+
+![Show the graph of x^2 + y^2 = 4](https://github.com/mdrahulhasanridoy/3rd-Trimister/assets/99040899/4d687c51-6f7a-4e35-8cc2-34a155f40c4b)
+
+y= x^3 is a function because if we draw a vertical line in a graph then it cuts the graph in one point.
+
+![Show the graph of y= x^3](
