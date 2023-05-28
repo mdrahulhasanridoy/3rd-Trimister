@@ -133,3 +133,74 @@ D[Hexadecimal] --Convert--> B
 &= 1658.75390625
 \end{align}
 ```
+```mermaid
+graph LR
+A[Binary] --Convert--> B[Octal]
+A --Convert--> C[Hexadecimal]
+```
+
+**Question 6**: Convert 1001110.11101(Binary) to Octal & Hexadecimal.
+**Solution:**
+- Binary to Octal
+
+Base of Binary is 2 and Base of Octal is 8.
+
+```math
+2^3 = 8
+```
+T
+| 8 |
+|---|
+| Octal |
+| 4 2 1 |
+
+Technique: Grouping
+
+Binary: 1001110.11101
+
+We can write it as 001 001 110.111 010
+
+Group 1 = 001
+Group 2 = 001
+Group 3 = 110
+Group 4 = 111
+Group 5 = 010
+
+Apply the table to each group.
+
+|Group 1 | | | |
+|--------|-|-|-|
+| 0 | 0 | 1 | |
+| 4 | 2 | 1 | |
+
+So, 0*4 + 0*2 + 1*1 = 1
+
+|Group 2 | | | |
+|--------|-|-|-|
+| 0 | 0 | 1 | |
+| 4 | 2 | 1 | |
+
+So, 0*4 + 0*2 + 1*1 = 1
+ 
+|Group 3 | | | |
+|--------|-|-|-|
+| 1 | 1 | 0 | |
+| 4 | 2 | 1 | |
+
+So, 1*4 + 1*2 + 0*1 = 6
+
+|Group 4 | | | |
+|--------|-|-|-|
+| 1 | 1 | 1 | |
+| 4 | 2 | 1 | |
+
+So, 1*4 + 1*2 + 1*1 = 7
+
+|Group 5 | | | |
+|--------|-|-|-|
+| 0 | 1 | 0 | |
+| 4 | 2 | 1 | |
+
+So, 0*4 + 1*2 + 0*1 = 2
+
+So, we can say that 1001110.11101(Binary) = 126.72(Octal)

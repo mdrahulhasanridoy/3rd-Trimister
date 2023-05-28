@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6beb58dd6b00e508",
@@ -147,7 +148,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b11905e2b8afb310",
+  "active": "88d196c2660c7684",
   "lastOpenFiles": [
     "Calculas/README.md",
     "Digital Logic Design/README.md.md",
