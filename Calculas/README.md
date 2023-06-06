@@ -144,4 +144,18 @@ y &= 2x^2 + 1 \\
 y &= -3x^2 + 2 \\
 \end{align}
 ```
-- **Cubic Funcation**
+
+- Note: Now you need to just remember and revised everythings which is given finish above. Because it is very important for you.
+
+
+## Ploting of Various Funcation
+
+- **Linear Funcation**
+    
+        Everytime the graph of linear function is a straight line. Also, the power of x is 1.
+        
+        Example: y = x
+
+Graph of y = x
+
+![y=x](https://github.com/mdrahulhasanridoy/3rd-Trimister/assets/99040899/d4643c3b-c913-4d5f-8f0b-b1f5eaad11f5)

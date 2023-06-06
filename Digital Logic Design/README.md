@@ -223,3 +223,152 @@ So,
 ```
 
 So, we can say that 1001110.11101(Binary) = 126.72(Octal)
+
+- Binary to Hexadecimal
+
+Base of Binary is 2 and Base of Hexadecimal is 16.
+
+```math
+2^4 = 16
+```
+
+| 16 | | | |
+|---|--|--|--|
+| Hexadecimal | | | |
+| 8 | 4 | 2 | 1 |
+
+Technique: Grouping
+
+Binary: 1001110.11101
+
+We can write it as 0100 1110.1110 1000
+
+Group 1 = 0100
+
+Group 2 = 1110
+
+Group 3 = 1110
+
+Group 4 = 1000
+
+Apply the table to each group.
+
+|Group 1 | | | |
+|--------|-|-|-|
+| 0 | 1 | 0 | 0 |
+| 8 | 4 | 2 | 1 |
+
+So, 
+```math
+0*8 + 1*4 + 0*2 + 0*1 = 4
+```
+
+|Group 2 | | | |
+|--------|-|-|-|
+| 1 | 1 | 1 | 0 |
+| 8 | 4 | 2 | 1 |
+
+So, 
+```math
+1*8 + 1*4 + 1*2 + 0*1 = 14
+```
+
+|Group 3 | | | |
+|--------|-|-|-|
+| 1 | 1 | 1 | 0 |
+| 8 | 4 | 2 | 1 |
+
+So, 
+```math
+1*8 + 1*4 + 1*2 + 0*1 = 14
+```
+
+|Group 4 | | | |
+|--------|-|-|-|
+| 1 | 0 | 0 | 0 |
+| 8 | 4 | 2 | 1 |
+
+So, 
+```math
+1*8 + 0*4 + 0*2 + 0*1 = 8
+```
+
+So, we can say that 1001110.11101(Binary) = 4E.E8(Hexadecimal)
+
+**Question 7**: Convert ABC10.D2(Hexadecimal) to Binary.
+**Solution:**
+- Hexadecimal to Binary
+
+Base of Hexadecimal is 16 and Base of Binary is 2.
+
+```math
+2^4 = 16
+```
+
+| 16 | | | |
+|---|--|--|--|
+| Hexadecimal | | | |
+| 8 | 4 | 2 | 1 |
+
+Technique: Group Making
+
+Hexadecimal: ABC10.D2
+
+>For, A = 10
+
+|Group 1 | | | |
+|--------|-|-|-|
+| 8 | 4 | 2 | 1 |
+| 1 | 0 | 1 | 0 |
+
+Note: 8 + 2 = 10
+
+>For, B = 11
+
+|Group 2 | | | |
+|---|--|--|--|
+| 8 | 4 | 2 | 1 |
+| 1 | 0 | 1 | 1 |
+
+Note: 8 + 2 + 1 = 11
+
+>For, C = 12
+
+|Group 3 | | | |
+|---|--|--|--|
+| 8 | 4 | 2 | 1 |
+| 1 | 1 | 0 | 0 |
+
+Note: 8 + 4 = 12
+
+>For, 1
+
+|Group 4 | | | |
+|---|--|--|--|
+| 8 | 4 | 2 | 1 |
+| 0 | 0 | 0 | 1 |
+
+Note: 1
+
+>For, 0
+
+|Group 5 | | | |
+|---|--|--|--|
+| 8 | 4 | 2 | 1 |
+| 0 | 0 | 0 | 0 |
+
+Note: 0
+
+>For, D = 13
+
+|Group 6 | | | |
+|---|--|--|--|
+| 8 | 4 | 2 | 1 |
+| 1 | 1 | 0 | 1 |
+
+Note: 8 + 4 + 1 = 13
+
+>For, 2
+
+|Group 7 | | | |
+|---|--|--|--|
