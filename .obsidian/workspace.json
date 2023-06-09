@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculas/README.md",
+                "file": "Digital Logic Design/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Practice.md",
+=======
+                "file": "Digital Logic Design/README.md",
+>>>>>>> 55296f719055bb3f1bbd8c55296a60ad534147f5
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Practice.md",
+=======
+                "file": "Digital Logic Design/README.md",
+>>>>>>> 55296f719055bb3f1bbd8c55296a60ad534147f5
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Practice.md"
+=======
+                "file": "Digital Logic Design/README.md"
+>>>>>>> 55296f719055bb3f1bbd8c55296a60ad534147f5
               }
             }
           }
@@ -162,8 +174,23 @@
   },
   "active": "dcddd2789c400969",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Calculas/README.md",
     "Practice.md",
+=======
+    "Calculas/Caculus_Abir.md",
+    "Digital Logic Design Lab/README.md",
+    "Digital Logic Design Lab/READEME.md",
+    "Digital Logic Design/README.md",
+    "Digital Logic Design/README.md.md",
+    "Untitled 1.md",
+    "Caculus_Abir.md",
+    "Caculus_Abid.md",
+    "Untitled.md",
+    "Calculas/README.md",
+    "README.md.md",
+    "Untitled",
+>>>>>>> 55296f719055bb3f1bbd8c55296a60ad534147f5
     "Digital Logic Design Laboratory"
   ]
 }
