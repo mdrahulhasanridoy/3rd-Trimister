@@ -28,39 +28,29 @@
 
 Solution:
 
-1.1. 
-
-Here, we can write the equation as:
+1.1. Here, we can write y as a function of x as follows:
 
 ```math
     y = \frac{2x - 7}{5}
 ```
-So, y is a function of x.
+Now, Let's findout it's a function or not.
 
-1.2.
+Let's take two points (x1, y1) and (x2, y2) such that x1 = x2 and y1 != y2.
 
-Here, we can write the equation as:
+Now, we have to check whether y1 = y2 or not.
 
-```math
-    y = \sqrt[3]{2x - 1} - 3
-```
-So, y is a function of x.
-
-1.3.
-
-Here, we can write the equation as:
+Let's put x1 = x2 = 0 and y1 = 1 and y2 = 2.
 
 ```math
-    y = \sqrt{5 - x^2} + 3
+    y1 = \frac{2*0 - 7}{5} = -\frac{7}{5}
 ```
-So, y is a function of x.
-
-1.4.
-
-Here, we can write the equation as:
 
 ```math
-    y = \frac{2x}{|y|}
+    y2 = \frac{2*0 - 7}{5} = -\frac{7}{5}
 ```
-So, y is not a function of x.
+
+So, y1 = y2.
+
+Hence, it's a function.
+
 
