@@ -35,22 +35,24 @@ Solution:
 ```
 Now, Let's findout it's a function or not.
 
-Let's take two points (x1, y1) and (x2, y2) such that x1 = x2 and y1 != y2.
-
-Now, we have to check whether y1 = y2 or not.
-
-Let's put x1 = x2 = 0 and y1 = 1 and y2 = 2.
+If we input in a function, we get only one output. So, let's check it.
 
 ```math
-    y1 = \frac{2*0 - 7}{5} = -\frac{7}{5}
+    x = 1 => y = -1
 ```
+So, we get only one output. So, it's a function.
+
+
+1.2 Here, we can write y as a function of x as follows:
 
 ```math
-    y2 = \frac{2*0 - 7}{5} = -\frac{7}{5}
+    y = \sqrt[3]{2x - 1} - 3
 ```
+Now, Let's findout it's a function or not.
 
-So, y1 = y2.
+If we input in a function, we get only one output. So, let's check it.
 
-Hence, it's a function.
-
-
+```math
+    x = 1 => y = -1
+```
+So, we get only one output. So, it's a function.
